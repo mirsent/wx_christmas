@@ -41,6 +41,6 @@
       <view class="_div data-v-5a27ac78 ground"></view>
     </view>
     <view class="_view data-v-5a27ac78 content"> {{merry}} </view>
-    <view class="_view data-v-5a27ac78 back" bindtap="handleProxy" data-eventid="{{'pnk-0'}}" data-comkey="{{$k}}"> back </view>
+    <view class="_view data-v-5a27ac78 back" bindtap="handleProxy" data-eventid="{{'B8L-0'}}" data-comkey="{{$k}}"> back </view>
   </view>
 </template>

@@ -21,8 +21,8 @@
 		},
 		methods: {
 			back() {
-				uni.navigateBack({
-					delta: 1
+				uni.reLaunch({
+					url: '/pages/index/index'
 				});
 			}
 		},

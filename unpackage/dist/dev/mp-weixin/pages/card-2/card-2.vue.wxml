@@ -670,6 +670,6 @@
       </view>
     </view>
     <view class="_view data-v-61e76958 content"> {{merry}} </view>
-    <view class="_view data-v-61e76958 back" bindtap="handleProxy" data-eventid="{{'ILc-0'}}" data-comkey="{{$k}}"> back </view>
+    <view class="_view data-v-61e76958 back" bindtap="handleProxy" data-eventid="{{'aZC-0'}}" data-comkey="{{$k}}"> back </view>
   </view>
 </template>
