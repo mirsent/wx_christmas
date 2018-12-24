@@ -1,0 +1,9 @@
+<template name="1e27093f">
+  <view class="_view data-v-69a72638 wrap">
+    <view class="_view data-v-69a72638 pixel-box">
+      <view class="_view data-v-69a72638 pixel"></view>
+    </view>
+    <view class="_view data-v-69a72638 content"> {{merry}} </view>
+    <view class="_view data-v-69a72638 back" bindtap="handleProxy" data-eventid="{{'p09-0'}}" data-comkey="{{$k}}"> back </view>
+  </view>
+</template>

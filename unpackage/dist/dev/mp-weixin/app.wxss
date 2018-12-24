@@ -1,0 +1,14 @@
+
+.content {
+  font-size: 42rpx;
+  font-weight: bold;
+  padding: 40px;
+  color: #FFF;
+  text-align: left;
+}
+.back {
+  color: rgba(255, 255, 255, .5);
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}

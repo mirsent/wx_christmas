@@ -1,0 +1,12 @@
+<template name="122becab">
+  <view class="_view data-v-11ef949e wrap">
+    <text class="_text data-v-11ef949e title">{{title}}</text>
+    <view class="_view data-v-11ef949e cards">
+      <image src="{{card.url}}" wx:key="index" key="{{index}}" bindtap="handleProxy" data-eventid="{{'PRt-0-'+index}}" data-comkey="{{$k}}" wx:for="{{cards}}" wx:for-index="index" wx:for-item="card" class="_image data-v-11ef949e {{[card.page == onIndex ? 'on' : '']}}"></image>
+    </view>
+    <view class="_view data-v-11ef949e btn-group">
+      <textarea value="" placeholder="请输入祝福语..." bindinput="handleProxy" data-eventid="{{'j5U-1'}}" data-comkey="{{$k}}" class="_textarea data-v-11ef949e" />
+      <button type="primary" bindtap="handleProxy" data-eventid="{{'rAI-2'}}" data-comkey="{{$k}}" class="_button data-v-11ef949e">制作贺卡</button>
+    </view>
+  </view>
+</template>

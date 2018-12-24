@@ -1,0 +1,7 @@
+<template name="25e6c61f">
+  <view class="_view data-v-7166e318">
+    <image src="../../static/img/card4.jpg" mode="widthFix" class="_image data-v-7166e318"></image>
+    <view class="_view data-v-7166e318 content"> {{merry}} </view>
+    <view class="_view data-v-7166e318 back" bindtap="handleProxy" data-eventid="{{'y0s-0'}}" data-comkey="{{$k}}"> back </view>
+  </view>
+</template>

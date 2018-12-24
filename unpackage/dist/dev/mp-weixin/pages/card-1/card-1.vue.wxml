@@ -1,0 +1,46 @@
+<template name="0ea78f7f">
+  <view class="_view data-v-5a27ac78">
+    <view id="christmas" class="_view data-v-5a27ac78">
+      <view class="_div data-v-5a27ac78 flake large f-1"></view>
+      <view class="_div data-v-5a27ac78 flake large f-2"></view>
+      <view class="_div data-v-5a27ac78 flake large f-3"></view>
+      <view class="_div data-v-5a27ac78 flake large f-4"></view>
+      <view class="_div data-v-5a27ac78 flake large f-5"></view>
+      <view class="_div data-v-5a27ac78 flake large f-6"></view>
+      <view class="_div data-v-5a27ac78 flake large f-7"></view>
+      <view class="_div data-v-5a27ac78 flake large f-8"></view>
+      <view class="_div data-v-5a27ac78 flake large f-9"></view>
+      <view class="_div data-v-5a27ac78 flake large f-10"></view>
+      <view class="_div data-v-5a27ac78 flake large f-11"></view>
+      <view class="_div data-v-5a27ac78 flake large f-12"></view>
+      <view class="_div data-v-5a27ac78 flake large f-13"></view>
+      <view class="_div data-v-5a27ac78 flake large f-14"></view>
+      <view class="_div data-v-5a27ac78 flake large f-15"></view>
+      <view class="_div data-v-5a27ac78 flake large f-16"></view>
+      <view class="_div data-v-5a27ac78 flake large f-17"></view>
+      <view class="_div data-v-5a27ac78 flake f-18"></view>
+      <view class="_div data-v-5a27ac78 flake f-19"></view>
+      <view class="_div data-v-5a27ac78 flake f-20"></view>
+      <view class="_div data-v-5a27ac78 flake f-21"></view>
+      <view class="_div data-v-5a27ac78 flake f-22"></view>
+      <view class="_div data-v-5a27ac78 flake f-23"></view>
+      <view class="_div data-v-5a27ac78 flake f-24"></view>
+      <view class="_div data-v-5a27ac78 flake f-25"></view>
+      <view class="_div data-v-5a27ac78 flake f-26"></view>
+      <view class="_div data-v-5a27ac78 flake f-27"></view>
+      <view class="_div data-v-5a27ac78 flake f-28"></view>
+      <view class="_div data-v-5a27ac78 flake f-29"></view>
+      <view class="_div data-v-5a27ac78 flake f-30"></view>
+      <view class="_div data-v-5a27ac78 flake f-31"></view>
+      <view class="_div data-v-5a27ac78 tree left">
+        <view class="_div data-v-5a27ac78 snow"></view>
+      </view>
+      <view class="_div data-v-5a27ac78 tree right">
+        <view class="_div data-v-5a27ac78 snow"></view>
+      </view>
+      <view class="_div data-v-5a27ac78 ground"></view>
+    </view>
+    <view class="_view data-v-5a27ac78 content"> {{merry}} </view>
+    <view class="_view data-v-5a27ac78 back" bindtap="handleProxy" data-eventid="{{'pnk-0'}}" data-comkey="{{$k}}"> back </view>
+  </view>
+</template>
